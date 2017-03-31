@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-std=c++11'
+  BST.cpp
+a:\a3\bst.cpp(97): warning C4018: '<': signed/unsigned mismatch
+a:\a3\bst.cpp(109): warning C4018: '<': signed/unsigned mismatch
+a:\a3\bst.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  Assignment3.vcxproj -> A:\A3\bin\Debug\Assignment3.exe
+  Assignment3.vcxproj -> bin\Debug\Assignment3.pdb (Full PDB)
